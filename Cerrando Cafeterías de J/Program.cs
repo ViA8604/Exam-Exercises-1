@@ -6,6 +6,31 @@ using System.Reflection.Metadata;
 {
     public static void Main()
     {
+        int[,]capacity=new int[,]
+        {
+            {10,0,0,5,20},
+            {10,10,0,5,20},
+            {20,10,0,5,20},
+            {20,10,30,10,20},
+            {20,10,30,10,30},
+            {20,10,30,5,20},
+            {10,10,0,5,20},
+            {10,0,0,5,20},
+        };
+        int[,]real=new int[,]
+        {
+            {5,0,0,1,0},
+            {5,5,0,5,5},
+            {5,5,0,4,8},
+            {10,5,7,8,10},
+            {10,5,8,10,10},
+            {5,5,8,3,10},
+            {5,5,0,3,5},
+            {5,0,0,1,2},
+        };
+        int result=CafeteriasACerrar(capacity,real);
+        Console.WriteLine("Tu resultado: "+result);
+        Console.WriteLine("Esperado 3");
 
     }
 
@@ -31,19 +56,15 @@ using System.Reflection.Metadata;
             if(!TryClose[c])
             {
                 TryClose[c]=true;
-                int[]AvariablesCaferias=Close(capacidad,real,ClosedCafeterias,c);
-                if(AvariablesCaferias.Length!=0)
+                if(Close(capacidad,real,ClosedCafeterias,c))
                 {
                     ClosedCafeterias[c]=true;
-                    closes++;
-                    for(int i=0;i<AvariablesCaferias.Length;i++)
-                    {
-                        MergeColumns(capacidad,c,AvariablesCaferias[i]);
-                        CloseCafeterias(capacidad,real,ref maxClose,closes,TryClose,ClosedCafeterias);
-                        DesMerge(capacidad,c,AvariablesCaferias[i]);
-                    }
-                    closes--;
+                    CloseCafeterias(capacidad,real,ref maxClose,closes+1,TryClose,ClosedCafeterias);
                     ClosedCafeterias[c]=false;
+                }
+                else
+                {
+                    CloseCafeterias(capacidad,real,ref maxClose,closes,TryClose,ClosedCafeterias);
                 }
                 TryClose[c]=false;
             }
@@ -57,45 +78,28 @@ using System.Reflection.Metadata;
         }
         return array;
     }
-    static int[] Close(int[,] capacidad, int[,] real,bool[] ClosedCafeterias,int cafeteria)
+    static bool Close(int[,] capacidad, int[,] real,bool[] ClosedCafeterias,int cafeteria)
     {
-        List<int>AvariablesCafeterias=new List<int>();
-        for(int i=0;i<ClosedCafeterias.Length;i++)
+        for(int i=0;i<real.GetLength(0);i++)
         {
-            if(i!=cafeteria && !ClosedCafeterias[i])
+            int SumRow=0;
+            for(int a=0;a<real.GetLength(1);a++)
             {
-                if(CanClose(i))
+                if(a!=cafeteria)
                 {
-                    AvariablesCafeterias.Add(i);
+                    if(ClosedCafeterias[a])
+                    {
+                        SumRow-=real[i,a];
+                    }
+                    else
+                    {
+                        SumRow+=(capacidad[i,a]-real[i,a]);
+                    }
                 }
             }
+            if(SumRow<real[i,cafeteria]) return false;
         }
-        return AvariablesCafeterias.ToArray();
-        bool CanClose(int i)
-        {
-            for(int r=0;r<capacidad.GetLength(0);r++)
-            {
-                    if(capacidad[i,r]+capacidad[cafeteria,r]>real[i,r])
-                    {
-                       return false;//hay q ver si pincha
-                    }
-            }
-            return true;
-        }
-    }
-    static void DesMerge(int[,] capacidad,int CloseCafeteria,int OpenCafeteria)
-    {
-        for(int i=0;i<capacidad.GetLength(0);i++)
-        {
-            capacidad[i,OpenCafeteria]-=capacidad[i,CloseCafeteria];
-        }
-    }
-    static void MergeColumns(int[,] capacidad,int CloseCafeteria,int OpenCafeteria)
-    {
-        for(int i=0;i<capacidad.GetLength(0);i++)
-        {
-            capacidad[i,OpenCafeteria]+=capacidad[i,CloseCafeteria];
-        }
+        return true;
     }
     static bool AllVisitsCafeterias(bool[]VisitCafeterias)
     {
