@@ -1,0 +1,14 @@
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/bin/Debug/net8.0/Muralla China
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/bin/Debug/net8.0/Muralla China.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/bin/Debug/net8.0/Muralla China.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/bin/Debug/net8.0/Muralla China.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/bin/Debug/net8.0/Muralla China.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/Muralla China.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/Muralla China.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/Muralla China.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/Muralla China.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/Muralla China.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/refint/Muralla China.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/Muralla China.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/Muralla China.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Muralla China/obj/Debug/net8.0/ref/Muralla China.dll

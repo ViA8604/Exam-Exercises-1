@@ -1,0 +1,14 @@
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/bin/Debug/net8.0/La Encrucijada del Caminante
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/bin/Debug/net8.0/La Encrucijada del Caminante.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/bin/Debug/net8.0/La Encrucijada del Caminante.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/bin/Debug/net8.0/La Encrucijada del Caminante.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/bin/Debug/net8.0/La Encrucijada del Caminante.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/La Encrucijada del Caminante.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/La Encrucijada del Caminante.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/La Encrucijada del Caminante.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/La Encrucijada del Caminante.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/La Encrucijada del Caminante.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/refint/La Encrucijada del Caminante.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/La Encrucijada del Caminante.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/La Encrucijada del Caminante.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/La Encrucijada del Caminante/obj/Debug/net8.0/ref/La Encrucijada del Caminante.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "La Encrucijada del Caminante/1.0.0": {
+        "runtime": {
+          "La Encrucijada del Caminante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "La Encrucijada del Caminante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
