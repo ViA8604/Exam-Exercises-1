@@ -6,7 +6,7 @@ using System.Reflection.Metadata;
 {
     public static void Main()
     {
-        int[,]capacity=new int[,]
+        int[,]capacity1=new int[,]
         {
             {10,0,0,5,20},
             {10,10,0,5,20},
@@ -17,7 +17,7 @@ using System.Reflection.Metadata;
             {10,10,0,5,20},
             {10,0,0,5,20},
         };
-        int[,]real=new int[,]
+        int[,]real1=new int[,]
         {
             {5,0,0,1,0},
             {5,5,0,5,5},
@@ -28,10 +28,109 @@ using System.Reflection.Metadata;
             {5,5,0,3,5},
             {5,0,0,1,2},
         };
-        int result=CafeteriasACerrar(capacity,real);
-        Console.WriteLine("Tu resultado: "+result);
+        int result1=CafeteriasACerrar(capacity1,real1);
+        Console.WriteLine("Tu resultado: "+result1);
         Console.WriteLine("Esperado 3");
-
+        int[,]capacity2=new int[,]
+        {
+            {10,0,20},
+            {10,10,20},
+            {20,15,20},
+            {20,15,20},
+            {20,15,30},
+            {20,10,20},
+            {10,10,20},
+            {10,0,20},
+        };
+        int[,]real2=new int[,]
+        {
+            {5,0,0},
+            {5,5,5},
+            {5,5,8},
+            {10,15,18},
+            {10,5,10},
+            {5,5,10},
+            {5,5,5},
+            {5,0,2},
+        };
+        int result2=CafeteriasACerrar(capacity2,real2);
+        Console.WriteLine("Tu resultado: "+result2);
+        Console.WriteLine("Esperado 0");
+        int[,]capacity3=new int[,]
+        {
+            {10,0},
+            {10,10},
+            {20,15},
+            {20,15},
+            {20,15},
+            {20,10},
+            {10,10},
+            {10,0},
+        };
+        int[,]real3=new int[,]
+        {
+            {5,0},
+            {5,5},
+            {5,12},
+            {10,10},
+            {10,5},
+            {5,5},
+            {5,5},
+            {5,0},
+        };
+        int result3=CafeteriasACerrar(capacity3,real3);
+        Console.WriteLine("Tu resultado: "+result3);
+        Console.WriteLine("Esperado 1");
+         int[,]capacity4=new int[,]
+        {
+            {10,0,20},
+            {10,10,20},
+            {20,15,20},
+            {20,15,20},
+            {20,15,30},
+            {20,10,20},
+            {10,10,20},
+            {10,0,20},
+        };
+        int[,]real4=new int[,]
+        {
+            {0,0,0},
+            {0,0,0},
+            {0,0,0},
+            {0,0,0},
+            {0,0,0},
+            {0,0,0},
+            {0,0,0},
+            {0,0,0},
+        };
+        int result4=CafeteriasACerrar(capacity4,real4);
+        Console.WriteLine("Tu resultado: "+result4);
+        Console.WriteLine("Esperado 3");
+        int[,]capacity5=new int[,]
+        {
+            {10,8},
+            {10,10},
+            {20,15},
+            {20,15},
+            {20,15},
+            {20,10},
+            {10,10},
+            {10,8},
+        };
+        int[,]real5=new int[,]
+        {
+            {5,2},
+            {5,5},
+            {5,7},
+            {5,8},
+            {9,5},
+            {5,5},
+            {5,5},
+            {5,3},
+        };
+        int result5=CafeteriasACerrar(capacity5,real5);
+        Console.WriteLine("Tu resultado: "+result5);
+        Console.WriteLine("Esperado 1");
     }
 
     public static int CafeteriasACerrar(int[,] capacidad, int[,] real)
