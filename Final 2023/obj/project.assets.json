@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\programacion\\pruebas\\pruebas\\Feeding Lions\\exam\\exam.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Final 2023\\exam.csproj",
       "projectName": "exam",
-      "projectPath": "C:\\Users\\John\\Desktop\\programacion\\pruebas\\pruebas\\Feeding Lions\\exam\\exam.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Final 2023\\exam.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\programacion\\pruebas\\pruebas\\Feeding Lions\\exam\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Final 2023\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config"
