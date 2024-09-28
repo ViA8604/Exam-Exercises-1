@@ -9,9 +9,21 @@ public class Program
             test1[coo.Item1, coo.Item2] = true;
         }
 
-        ImprimirMatrizBool(test1);
+        bool[,] test2 = new bool[8, 8];         //EL PARTIDOR
+        foreach (var coo in new List<(int, int)> { (1, 0), (1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 5), (1, 6), (1, 7) })
+        {
+            test2[coo.Item1, coo.Item2] = true;
+        }
 
-        Console.WriteLine(LongitudMinimaSegura(test1));
+        bool[,] test3 = new bool[8, 8];
+        foreach (var coo in new List<(int, int)> { (3, 0), (3, 1), (3, 2), (3, 3), (3, 4), (3, 5), (4, 7), (6, 7) })
+        {
+            test3[coo.Item1, coo.Item2] = true;
+        }
+
+
+        ImprimirMatrizBool(test3);
+        Console.WriteLine(LongitudMinimaSegura(test3));
 
     }
 
@@ -21,7 +33,7 @@ public class Program
         bool[,] posBloqueada = GetValidArray(tablero);
         bool[,] mascara = new bool[tablero.GetLength(0), tablero.GetLength(1)];
 
-        Solve(tablero, posBloqueada, mascara, 7, 0, 0, ref min);
+        Solve(tablero, posBloqueada, mascara, 7, 0, 1, ref min);
         return min;
     }
 
