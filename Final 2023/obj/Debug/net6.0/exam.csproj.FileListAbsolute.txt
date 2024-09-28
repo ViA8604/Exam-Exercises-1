@@ -1,0 +1,30 @@
+/home/dario/alimentando_leones/exam/bin/Debug/net6.0/exam
+/home/dario/alimentando_leones/exam/bin/Debug/net6.0/exam.deps.json
+/home/dario/alimentando_leones/exam/bin/Debug/net6.0/exam.runtimeconfig.json
+/home/dario/alimentando_leones/exam/bin/Debug/net6.0/exam.dll
+/home/dario/alimentando_leones/exam/bin/Debug/net6.0/ref/exam.dll
+/home/dario/alimentando_leones/exam/bin/Debug/net6.0/exam.pdb
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.csproj.AssemblyReference.cache
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.AssemblyInfoInputs.cache
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.AssemblyInfo.cs
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.csproj.CoreCompileInputs.cache
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.dll
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/ref/exam.dll
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.pdb
+/home/dario/alimentando_leones/exam/obj/Debug/net6.0/exam.genruntimeconfig.cache
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.csproj.AssemblyReference.cache
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.AssemblyInfoInputs.cache
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.AssemblyInfo.cs
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.csproj.CoreCompileInputs.cache
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.dll
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/ref/exam.dll
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.pdb
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/bin/Debug/net6.0/exam
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/bin/Debug/net6.0/exam.deps.json
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/bin/Debug/net6.0/exam.runtimeconfig.json
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/bin/Debug/net6.0/exam.dll
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/bin/Debug/net6.0/ref/exam.dll
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/bin/Debug/net6.0/exam.pdb
+/home/dario/Study/Ejercicios/Exámenes Programacion/2022-2023/alimentando leones/alimentando_leones/exam/obj/Debug/net6.0/exam.genruntimeconfig.cache
