@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Camino seguro del Rey/1.0.0": {
+        "runtime": {
+          "Camino seguro del Rey.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Camino seguro del Rey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

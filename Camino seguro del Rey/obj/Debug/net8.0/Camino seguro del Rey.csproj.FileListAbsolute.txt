@@ -1,0 +1,15 @@
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/bin/Debug/net8.0/Camino seguro del Rey
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/bin/Debug/net8.0/Camino seguro del Rey.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/bin/Debug/net8.0/Camino seguro del Rey.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/bin/Debug/net8.0/Camino seguro del Rey.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/bin/Debug/net8.0/Camino seguro del Rey.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/refint/Camino seguro del Rey.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/ref/Camino seguro del Rey.dll
