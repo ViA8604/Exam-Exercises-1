@@ -33,11 +33,11 @@ public class Program
         int min = int.MaxValue;
         bool[,] posBloqueada = GetValidArray(tablero);
         bool[,] mascara = new bool[tablero.GetLength(0), tablero.GetLength(1)];
-        if(!HaySalida(posBloqueada))
+        Solve(tablero, posBloqueada, mascara, 7, 0, 1, ref min);
+        if(min==int.MaxValue)
         {
             return 0;
         }
-        Solve(tablero, posBloqueada, mascara, 7, 0, 1, ref min);
         return min;
     }
 
@@ -55,7 +55,7 @@ public class Program
         else
         {
             bool peonExistente = false;
-            foreach (var coo in new List<(int, int)> { (0, 1), (0, -1), (-1, 0), (-1, -1), (-1, 1), (1, 0), (1, 1), (1, -1) })
+            foreach (var coo in new List<(int, int)> { (0, 1),  (-1, 0), (-1, 1), })
             {
                 int nextFila = coo.Item1 + fila;
                 int nextColumna = coo.Item2 + columna;
@@ -82,38 +82,38 @@ public class Program
 
         }
     }
-    static bool HaySalida(bool[,] posiciones_bloqueadas)
-    {
-        for (int i = 1; i < posiciones_bloqueadas.GetLength(0)-1; i++)
-        {
-            for (int j = 0; j < posiciones_bloqueadas.GetLength(1); j++)
-            {
-               if(!posiciones_bloqueadas[i,j])
-               {
-                    break;
-               }
-               if(j==posiciones_bloqueadas.GetLength(1)-1)
-               {
-                    return false;
-               }
-            }
-        }
-        for (int j = 1; j < posiciones_bloqueadas.GetLength(1)-1; j++)
-        {
-            for (int i = 0; i < posiciones_bloqueadas.GetLength(0); i++)
-            {
-               if(!posiciones_bloqueadas[i,j])
-               {
-                    break;
-               }
-               if(j==posiciones_bloqueadas.GetLength(1)-1)
-               {
-                    return false;
-               }
-            }
-        }
-        return true;
-    }
+    // static bool HaySalida(bool[,] posiciones_bloqueadas)
+    // {
+    //     for (int i = 1; i < posiciones_bloqueadas.GetLength(0)-1; i++)
+    //     {
+    //         for (int j = 0; j < posiciones_bloqueadas.GetLength(1); j++)
+    //         {
+    //            if(!posiciones_bloqueadas[i,j])
+    //            {
+    //                 break;
+    //            }
+    //            if(j==posiciones_bloqueadas.GetLength(1)-1)
+    //            {
+    //                 return false;
+    //            }
+    //         }
+    //     }
+    //     for (int j = 1; j < posiciones_bloqueadas.GetLength(1)-1; j++)
+    //     {
+    //         for (int i = 0; i < posiciones_bloqueadas.GetLength(0); i++)
+    //         {
+    //            if(!posiciones_bloqueadas[i,j])
+    //            {
+    //                 break;
+    //            }
+    //            if(j==posiciones_bloqueadas.GetLength(1)-1)
+    //            {
+    //                 return false;
+    //            }
+    //         }
+    //     }
+    //     return true;
+    // }
 
     private static void PonerPeon(bool[,] tablero, bool[,] posBloqueada, int fila, int columna)
     {
