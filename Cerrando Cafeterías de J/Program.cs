@@ -6,198 +6,40 @@ using System.Reflection.Metadata;
 {
     public static void Main()
     {
-        int[,]capacity1=new int[,]
-        {
-            {10,0,0,5,20},
-            {10,10,0,5,20},
-            {20,10,0,5,20},
-            {20,10,30,10,20},
-            {20,10,30,10,30},
-            {20,10,30,5,20},
-            {10,10,0,5,20},
-            {10,0,0,5,20},
-        };
-        int[,]real1=new int[,]
-        {
-            {5,0,0,1,0},
-            {5,5,0,5,5},
-            {5,5,0,4,8},
-            {10,5,7,8,10},
-            {10,5,8,10,10},
-            {5,5,8,3,10},
-            {5,5,0,3,5},
-            {5,0,0,1,2},
-        };
-        int result1=CafeteriasACerrar(capacity1,real1);
-        Console.WriteLine("Tu resultado: "+result1);
-        Console.WriteLine("Esperado 3");
-        int[,]capacity2=new int[,]
-        {
-            {10,0,20},
-            {10,10,20},
-            {20,15,20},
-            {20,15,20},
-            {20,15,30},
-            {20,10,20},
-            {10,10,20},
-            {10,0,20},
-        };
-        int[,]real2=new int[,]
-        {
-            {5,0,0},
-            {5,5,5},
-            {5,5,8},
-            {10,15,18},
-            {10,5,10},
-            {5,5,10},
-            {5,5,5},
-            {5,0,2},
-        };
-        int result2=CafeteriasACerrar(capacity2,real2);
-        Console.WriteLine("Tu resultado: "+result2);
-        Console.WriteLine("Esperado 0");
-        int[,]capacity3=new int[,]
-        {
-            {10,0},
-            {10,10},
-            {20,15},
-            {20,15},
-            {20,15},
-            {20,10},
-            {10,10},
-            {10,0},
-        };
-        int[,]real3=new int[,]
-        {
-            {5,0},
-            {5,5},
-            {5,12},
-            {10,10},
-            {10,5},
-            {5,5},
-            {5,5},
-            {5,0},
-        };
-        int result3=CafeteriasACerrar(capacity3,real3);
-        Console.WriteLine("Tu resultado: "+result3);
-        Console.WriteLine("Esperado 1");
-         int[,]capacity4=new int[,]
-        {
-            {10,0,20},
-            {10,10,20},
-            {20,15,20},
-            {20,15,20},
-            {20,15,30},
-            {20,10,20},
-            {10,10,20},
-            {10,0,20},
-        };
-        int[,]real4=new int[,]
-        {
-            {0,0,0},
-            {0,0,0},
-            {0,0,0},
-            {0,0,0},
-            {0,0,0},
-            {0,0,0},
-            {0,0,0},
-            {0,0,0},
-        };
-        int result4=CafeteriasACerrar(capacity4,real4);
-        Console.WriteLine("Tu resultado: "+result4);
-        Console.WriteLine("Esperado 3");
-        int[,]capacity5=new int[,]
-        {
-            {10,8},
-            {10,10},
-            {20,15},
-            {20,15},
-            {20,15},
-            {20,10},
-            {10,10},
-            {10,8},
-        };
-        int[,]real5=new int[,]
-        {
-            {5,2},
-            {5,5},
-            {5,7},
-            {5,8},
-            {9,5},
-            {5,5},
-            {5,5},
-            {5,3},
-        };
-        int result5=CafeteriasACerrar(capacity5,real5);
-        Console.WriteLine("Tu resultado: "+result5);
-        Console.WriteLine("Esperado 1");
+
     }
 
-    public static int CafeteriasACerrar(int[,] capacidad, int[,] real)
+    public static void CafeteriasACerrar(int[,] capacidad, int[,] real)
     {
-        int maxClose=0;
-         // se le pasa una mascara para saber que cafeterias has intentado cerrar y las cafeterias que estan cerradas
-        CloseCafeterias(capacidad,real,ref maxClose,0,FalseArray(new bool[capacidad.GetLength(1)]),FalseArray(new bool[capacidad.GetLength(1)]));
-        return maxClose;
-        
+        int[,] disponibilidad = GetDisponibilidad(capacidad, real);
+        bool[] mascara = new bool[capacidad.GetLength(1)];
+
+        int totalCaf = 0;
+
+        CerrarCafeterias(0, capacidad, real, disponibilidad, mascara, ref totalCaf);
     }
-    public static void CloseCafeterias(int[,] capacidad, int[,] real,ref int maxClose,int closes,bool[]TryClose,bool[]ClosedCafeterias)
+
+    private static void CerrarCafeterias(int columna, int[,] capacidad, int[,] real, int[,] disponibilidad, bool[] mascara, ref int totalCaf)
     {
-        if(AllVisitsCafeterias(TryClose))//si hemos intentado cerrar todas las cefeterias caso base
+
+    }
+
+    private static bool IntentarCerrar(int cafeteria, int[,] real, int[,] disponibilidad)
+    {
+        for (int i = 0; i < real.GetLength(0); i++)
         {
-            if(closes>maxClose)
+            for (int j = 0; j < real.GetLength(1); j++)
             {
-                maxClose=closes;
-            }
-            return;
-        }
-        for(int c=0;c<TryClose.Length;c++)//intentamos cerrar cada cafeteria
-        {
-            if(!TryClose[c])//si no hemos intentado cerrarla
-            {
-                TryClose[c]=true;//marcamos
-                if(Close(capacidad,real,ClosedCafeterias,c))//vemos si se puede cerrar la cafeteria
+                if (j == cafeteria)
                 {
-                    ClosedCafeterias[c]=true;//entonces la cerramos
-                    CloseCafeterias(capacidad,real,ref maxClose,closes+1,TryClose,ClosedCafeterias);
-                    ClosedCafeterias[c]=false;
+                    continue;
                 }
-                else// en el caso de que no se pueda cerrar seguimos tratando de cerrar las demas
+                else
                 {
-                    CloseCafeterias(capacidad,real,ref maxClose,closes,TryClose,ClosedCafeterias);
+
                 }
                 TryClose[c]=false;
             }
-        }
-    }
-    static bool[] FalseArray(bool[] array)
-    {
-        for(int i=0;i<array.Length;i++)
-        {
-            array[i]=false;
-        }
-        return array;
-    }
-    static bool Close(int[,] capacidad, int[,] real,bool[] ClosedCafeterias,int cafeteria)
-    {
-        for(int i=0;i<real.GetLength(0);i++)//iteramos en cada horario
-        {
-            int SumRow=0;
-            for(int a=0;a<real.GetLength(1);a++)//iteramos en cada cafeteria en ese horario
-            {
-                if(a!=cafeteria)//verificamos en todas las que no sean la cafeteria actual para ver con que disponibilidad se cuenta en ese horario
-                {
-                    if(ClosedCafeterias[a])// si la cafeteria esta cerrada los clientes tuvieron que ocupar lugares en otras cafeterias por lo que se le resta a la disponibilidad
-                    {
-                        SumRow-=real[i,a];
-                    }
-                    else
-                    {
-                        SumRow+=(capacidad[i,a]-real[i,a]);//disponibilidad de esa cafeteria se suma al total
-                    }
-                }
-            }
-            if(SumRow<real[i,cafeteria]) return false;//si la demanda supera la disponibilidad en algun horario no se puede cerrar 
         }
         return true;
     }
