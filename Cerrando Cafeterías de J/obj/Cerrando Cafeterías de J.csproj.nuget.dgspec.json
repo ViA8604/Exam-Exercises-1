@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Cerrando Cafeterías de J/Cerrando Cafeterías de J.csproj": {}
+    "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Cerrando Cafeterías de J\\Cerrando Cafeterías de J.csproj": {}
   },
   "projects": {
-    "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Cerrando Cafeterías de J/Cerrando Cafeterías de J.csproj": {
+    "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Cerrando Cafeterías de J\\Cerrando Cafeterías de J.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Cerrando Cafeterías de J/Cerrando Cafeterías de J.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Cerrando Cafeterías de J\\Cerrando Cafeterías de J.csproj",
         "projectName": "Cerrando Cafeterías de J",
-        "projectPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Cerrando Cafeterías de J/Cerrando Cafeterías de J.csproj",
-        "packagesPath": "/home/via/.nuget/packages/",
-        "outputPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Cerrando Cafeterías de J/obj/",
+        "projectPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Cerrando Cafeterías de J\\Cerrando Cafeterías de J.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Cerrando Cafeterías de J\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/via/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

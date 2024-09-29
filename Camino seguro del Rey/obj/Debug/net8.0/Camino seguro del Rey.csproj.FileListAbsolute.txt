@@ -13,3 +13,18 @@
 /home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.pdb
 /home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/Camino seguro del Rey.genruntimeconfig.cache
 /home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/Debug/net8.0/ref/Camino seguro del Rey.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\bin\Debug\net8.0\Camino seguro del Rey.exe
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\bin\Debug\net8.0\Camino seguro del Rey.deps.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\bin\Debug\net8.0\Camino seguro del Rey.runtimeconfig.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\bin\Debug\net8.0\Camino seguro del Rey.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\bin\Debug\net8.0\Camino seguro del Rey.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.AssemblyInfo.cs
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.sourcelink.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\refint\Camino seguro del Rey.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\Camino seguro del Rey.genruntimeconfig.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\obj\Debug\net8.0\ref\Camino seguro del Rey.dll

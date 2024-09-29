@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Camino_seguro_del_Rey
-build_property.ProjectDir = /home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/
+build_property.ProjectDir = C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Camino seguro del Rey\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

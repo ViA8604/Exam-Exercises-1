@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\bin\Debug\net8.0\Cerrando Cafeterías de J.exe
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\bin\Debug\net8.0\Cerrando Cafeterías de J.deps.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\bin\Debug\net8.0\Cerrando Cafeterías de J.runtimeconfig.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\bin\Debug\net8.0\Cerrando Cafeterías de J.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\bin\Debug\net8.0\Cerrando Cafeterías de J.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.AssemblyInfo.cs
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.sourcelink.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\refint\Cerrando Cafeterías de J.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\Cerrando Cafeterías de J.genruntimeconfig.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Cerrando Cafeterías de J\obj\Debug\net8.0\ref\Cerrando Cafeterías de J.dll
