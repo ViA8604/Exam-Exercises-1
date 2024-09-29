@@ -133,16 +133,17 @@ using System.Reflection.Metadata;
         Console.WriteLine("Esperado 1");
     }
 
-    public static void CafeteriasACerrar(int[,] capacidad, int[,] real)
+    public static int CafeteriasACerrar(int[,] capacidad, int[,] real)
     {
         int maxClose=0;
+         // se le pasa una mascara para saber que cafeterias has intentado cerrar y las cafeterias que estan cerradas
         CloseCafeterias(capacidad,real,ref maxClose,0,FalseArray(new bool[capacidad.GetLength(1)]),FalseArray(new bool[capacidad.GetLength(1)]));
         return maxClose;
         
     }
     public static void CloseCafeterias(int[,] capacidad, int[,] real,ref int maxClose,int closes,bool[]TryClose,bool[]ClosedCafeterias)
     {
-        if(AllVisitsCafeterias(TryClose))
+        if(AllVisitsCafeterias(TryClose))//si hemos intentado cerrar todas las cefeterias caso base
         {
             if(closes>maxClose)
             {
@@ -150,24 +151,20 @@ using System.Reflection.Metadata;
             }
             return;
         }
-        for(int c=0;c<TryClose.Length;c++)
+        for(int c=0;c<TryClose.Length;c++)//intentamos cerrar cada cafeteria
         {
-            if(!TryClose[c])
+            if(!TryClose[c])//si no hemos intentado cerrarla
             {
-                TryClose[c]=true;
-                int[]AvariablesCaferias=Close(capacidad,real,ClosedCafeterias,c);
-                if(AvariablesCaferias.Length!=0)
+                TryClose[c]=true;//marcamos
+                if(Close(capacidad,real,ClosedCafeterias,c))//vemos si se puede cerrar la cafeteria
                 {
-                    ClosedCafeterias[c]=true;
-                    closes++;
-                    for(int i=0;i<AvariablesCaferias.Length;i++)
-                    {
-                        MergeColumns(capacidad,c,AvariablesCaferias[i]);
-                        CloseCafeterias(capacidad,real,ref maxClose,closes,TryClose,ClosedCafeterias);
-                        DesMerge(capacidad,c,AvariablesCaferias[i]);
-                    }
-                    closes--;
+                    ClosedCafeterias[c]=true;//entonces la cerramos
+                    CloseCafeterias(capacidad,real,ref maxClose,closes+1,TryClose,ClosedCafeterias);
                     ClosedCafeterias[c]=false;
+                }
+                else// en el caso de que no se pueda cerrar seguimos tratando de cerrar las demas
+                {
+                    CloseCafeterias(capacidad,real,ref maxClose,closes,TryClose,ClosedCafeterias);
                 }
                 TryClose[c]=false;
             }
@@ -181,26 +178,26 @@ using System.Reflection.Metadata;
         }
         return array;
     }
-    static int[] Close(int[,] capacidad, int[,] real,bool[] ClosedCafeterias,int cafeteria)
+    static bool Close(int[,] capacidad, int[,] real,bool[] ClosedCafeterias,int cafeteria)
     {
-        for(int i=0;i<real.GetLength(0);i++)
+        for(int i=0;i<real.GetLength(0);i++)//iteramos en cada horario
         {
             int SumRow=0;
-            for(int a=0;a<real.GetLength(1);a++)
+            for(int a=0;a<real.GetLength(1);a++)//iteramos en cada cafeteria en ese horario
             {
-                if(a!=cafeteria)
+                if(a!=cafeteria)//verificamos en todas las que no sean la cafeteria actual para ver con que disponibilidad se cuenta en ese horario
                 {
-                    if(ClosedCafeterias[a])
+                    if(ClosedCafeterias[a])// si la cafeteria esta cerrada los clientes tuvieron que ocupar lugares en otras cafeterias por lo que se le resta a la disponibilidad
                     {
                         SumRow-=real[i,a];
                     }
                     else
                     {
-                        SumRow+=(capacidad[i,a]-real[i,a]);
+                        SumRow+=(capacidad[i,a]-real[i,a]);//disponibilidad de esa cafeteria se suma al total
                     }
                 }
             }
-            if(SumRow<real[i,cafeteria]) return false;
+            if(SumRow<real[i,cafeteria]) return false;//si la demanda supera la disponibilidad en algun horario no se puede cerrar 
         }
         return true;
     }
