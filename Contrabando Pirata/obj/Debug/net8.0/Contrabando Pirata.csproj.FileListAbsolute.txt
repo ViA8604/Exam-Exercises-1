@@ -1,0 +1,15 @@
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\bin\Debug\net8.0\Contrabando Pirata.exe
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\bin\Debug\net8.0\Contrabando Pirata.deps.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\bin\Debug\net8.0\Contrabando Pirata.runtimeconfig.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\bin\Debug\net8.0\Contrabando Pirata.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\bin\Debug\net8.0\Contrabando Pirata.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.AssemblyInfo.cs
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.sourcelink.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\refint\Contrabando Pirata.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\Contrabando Pirata.genruntimeconfig.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Contrabando Pirata\obj\Debug\net8.0\ref\Contrabando Pirata.dll
