@@ -1,0 +1,87 @@
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/bin/Debug/net7.0/exam
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/bin/Debug/net7.0/exam.deps.json
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/bin/Debug/net7.0/exam.runtimeconfig.json
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/bin/Debug/net7.0/exam.dll
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/bin/Debug/net7.0/exam.pdb
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.csproj.AssemblyReference.cache
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.AssemblyInfoInputs.cache
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.AssemblyInfo.cs
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.csproj.CoreCompileInputs.cache
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.dll
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/refint/exam.dll
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.pdb
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/exam.genruntimeconfig.cache
+/home/rodrigo/projects/pro_exmanens/2023/contrabando_pirata/exam/obj/Debug/net7.0/ref/exam.dll
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/bin/Debug/net7.0/exam
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/bin/Debug/net7.0/exam.deps.json
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/bin/Debug/net7.0/exam.runtimeconfig.json
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/bin/Debug/net7.0/exam.dll
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/bin/Debug/net7.0/exam.pdb
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.csproj.AssemblyReference.cache
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.AssemblyInfoInputs.cache
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.AssemblyInfo.cs
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.csproj.CoreCompileInputs.cache
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.dll
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/refint/exam.dll
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.pdb
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/exam.genruntimeconfig.cache
+/home/rodrigo/projects/pro_exmanens/2023/alimentando_leones/exam/obj/Debug/net7.0/ref/exam.dll
+C:\Users\Alex\Desktop\alimentando_leones\exam\bin\Debug\net7.0\exam.exe
+C:\Users\Alex\Desktop\alimentando_leones\exam\bin\Debug\net7.0\exam.deps.json
+C:\Users\Alex\Desktop\alimentando_leones\exam\bin\Debug\net7.0\exam.runtimeconfig.json
+C:\Users\Alex\Desktop\alimentando_leones\exam\bin\Debug\net7.0\exam.dll
+C:\Users\Alex\Desktop\alimentando_leones\exam\bin\Debug\net7.0\exam.pdb
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\exam.AssemblyInfo.cs
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\exam.dll
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\refint\exam.dll
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\exam.pdb
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\exam.genruntimeconfig.cache
+C:\Users\Alex\Desktop\alimentando_leones\exam\obj\Debug\net7.0\ref\exam.dll
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.exe
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.deps.json
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.runtimeconfig.json
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.dll
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.AssemblyInfo.cs
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.dll
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\refint\exam.dll
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.genruntimeconfig.cache
+C:\Users\Alex\Documents\Coding\pruebas\Feeding Lions\exam\obj\Debug\net7.0\ref\exam.dll
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.exe
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.deps.json
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.runtimeconfig.json
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.dll
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\bin\Debug\net7.0\exam.pdb
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.AssemblyInfo.cs
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.dll
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\refint\exam.dll
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.pdb
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\exam.genruntimeconfig.cache
+C:\Users\John\Desktop\programacion\pruebas\pruebas\Feeding Lions\exam\obj\Debug\net7.0\ref\exam.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.AssemblyInfo.cs
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.sourcelink.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\refint\exam.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\bin\Debug\net7.0\exam.exe
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\bin\Debug\net7.0\exam.deps.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\bin\Debug\net7.0\exam.runtimeconfig.json
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\bin\Debug\net7.0\exam.dll
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\bin\Debug\net7.0\exam.pdb
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\exam.genruntimeconfig.cache
+C:\Users\John\Desktop\programacion\Forks\Exam-Exercises-1\Final 2023\obj\Debug\net7.0\ref\exam.dll

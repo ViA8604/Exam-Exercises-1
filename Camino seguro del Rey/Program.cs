@@ -10,7 +10,7 @@ public class Program
         }
 
         bool[,] test2 = new bool[8, 8];         //EL PARTIDOR
-        foreach (var coo in new List<(int, int)> { (1, 0), (1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 5), (1, 6), (1, 7) })
+        foreach (var coo in new List<(int, int)> { (5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (5, 5),  (5, 6), (5, 7) })
         {
             test2[coo.Item1, coo.Item2] = true;
         }
@@ -24,7 +24,8 @@ public class Program
 
         ImprimirMatrizBool(test3);
         Console.WriteLine(LongitudMinimaSegura(test3));
-
+        Console.WriteLine(LongitudMinimaSegura(test1));
+        Console.WriteLine(LongitudMinimaSegura(test2));
     }
 
     public static int LongitudMinimaSegura(bool[,] tablero)
@@ -32,8 +33,11 @@ public class Program
         int min = int.MaxValue;
         bool[,] posBloqueada = GetValidArray(tablero);
         bool[,] mascara = new bool[tablero.GetLength(0), tablero.GetLength(1)];
-
         Solve(tablero, posBloqueada, mascara, 7, 0, 1, ref min);
+        if(min==int.MaxValue)
+        {
+            return 0;
+        }
         return min;
     }
 
@@ -51,7 +55,7 @@ public class Program
         else
         {
             bool peonExistente = false;
-            foreach (var coo in new List<(int, int)> { (0, 1), (0, -1), (-1, 0), (-1, -1), (-1, 1), (1, 0), (1, 1), (1, -1) })
+            foreach (var coo in new List<(int, int)> { (0, 1),  (-1, 0), (-1, 1), })
             {
                 int nextFila = coo.Item1 + fila;
                 int nextColumna = coo.Item2 + columna;
@@ -78,6 +82,38 @@ public class Program
 
         }
     }
+    // static bool HaySalida(bool[,] posiciones_bloqueadas)
+    // {
+    //     for (int i = 1; i < posiciones_bloqueadas.GetLength(0)-1; i++)
+    //     {
+    //         for (int j = 0; j < posiciones_bloqueadas.GetLength(1); j++)
+    //         {
+    //            if(!posiciones_bloqueadas[i,j])
+    //            {
+    //                 break;
+    //            }
+    //            if(j==posiciones_bloqueadas.GetLength(1)-1)
+    //            {
+    //                 return false;
+    //            }
+    //         }
+    //     }
+    //     for (int j = 1; j < posiciones_bloqueadas.GetLength(1)-1; j++)
+    //     {
+    //         for (int i = 0; i < posiciones_bloqueadas.GetLength(0); i++)
+    //         {
+    //            if(!posiciones_bloqueadas[i,j])
+    //            {
+    //                 break;
+    //            }
+    //            if(j==posiciones_bloqueadas.GetLength(1)-1)
+    //            {
+    //                 return false;
+    //            }
+    //         }
+    //     }
+    //     return true;
+    // }
 
     private static void PonerPeon(bool[,] tablero, bool[,] posBloqueada, int fila, int columna)
     {

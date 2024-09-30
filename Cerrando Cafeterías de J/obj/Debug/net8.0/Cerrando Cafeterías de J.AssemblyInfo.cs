@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cerrando Cafeterías de J")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f65064a8e550525bfaf6428ee7fc3767f527ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cerrando Cafeterías de J")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cerrando Cafeterías de J")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

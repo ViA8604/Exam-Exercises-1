@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/via/.nuget/packages/": {}
+    "C:\\Users\\John\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/Camino seguro del Rey.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Camino seguro del Rey\\Camino seguro del Rey.csproj",
       "projectName": "Camino seguro del Rey",
-      "projectPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/Camino seguro del Rey.csproj",
-      "packagesPath": "/home/via/.nuget/packages/",
-      "outputPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Ej Recursividad/Camino seguro del Rey/obj/",
+      "projectPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Camino seguro del Rey\\Camino seguro del Rey.csproj",
+      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Exam-Exercises-1\\Camino seguro del Rey\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/via/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
