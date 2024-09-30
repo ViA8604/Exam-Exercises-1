@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\John\\.nuget\\packages\\": {}
+    "/home/via/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\programacion\\pruebas\\pruebas\\Finding Paths\\Solution\\Solution.csproj",
+      "projectUniqueName": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/Solution.csproj",
       "projectName": "Solution",
-      "projectPath": "C:\\Users\\John\\Desktop\\programacion\\pruebas\\pruebas\\Finding Paths\\Solution\\Solution.csproj",
-      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\programacion\\pruebas\\pruebas\\Finding Paths\\Solution\\obj\\",
+      "projectPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/Solution.csproj",
+      "packagesPath": "/home/via/.nuget/packages/",
+      "outputPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/via/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

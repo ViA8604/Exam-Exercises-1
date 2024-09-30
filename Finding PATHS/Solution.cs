@@ -1,6 +1,6 @@
 ﻿using System.Reflection.PortableExecutable;
 
-namespace Solution;
+//namespace Solution;
 
 /*public static class Solution
 {

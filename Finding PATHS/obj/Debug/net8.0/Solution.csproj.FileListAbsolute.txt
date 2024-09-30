@@ -1,47 +1,62 @@
-C:\Users\Alex\Desktop\Arboles\Solution\bin\Debug\net8.0\Solution.deps.json
-C:\Users\Alex\Desktop\Arboles\Solution\bin\Debug\net8.0\Solution.dll
-C:\Users\Alex\Desktop\Arboles\Solution\bin\Debug\net8.0\Solution.pdb
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\Solution.AssemblyInfoInputs.cache
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\Solution.AssemblyInfo.cs
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\Solution.csproj.CoreCompileInputs.cache
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\Solution.dll
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\refint\Solution.dll
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\Solution.pdb
-C:\Users\Alex\Desktop\Arboles\Solution\obj\Debug\net8.0\ref\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\Solution.AssemblyInfoInputs.cache
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\Solution.AssemblyInfo.cs
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\Solution.csproj.CoreCompileInputs.cache
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\refint\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\Solution.pdb
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\bin\Debug\net8.0\Solution.deps.json
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\bin\Debug\net8.0\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\bin\Debug\net8.0\Solution.pdb
-C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Solution\obj\Debug\net8.0\ref\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.deps.json
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.pdb
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.AssemblyInfoInputs.cache
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.AssemblyInfo.cs
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.csproj.CoreCompileInputs.cache
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\refint\Solution.dll
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.pdb
-C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Solution\obj\Debug\net8.0\ref\Solution.dll
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.deps.json
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.dll
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.pdb
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.AssemblyInfoInputs.cache
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.AssemblyInfo.cs
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.csproj.CoreCompileInputs.cache
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.dll
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\refint\Solution.dll
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.pdb
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\ref\Solution.dll
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.exe
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\bin\Debug\net8.0\Solution.runtimeconfig.json
-C:\Users\John\Desktop\programacion\pruebas\pruebas\Finding Paths\Solution\obj\Debug\net8.0\Solution.genruntimeconfig.cache
+C:/Users/Alex/Desktop/Arboles/Solution/bin/Debug/net8.0/Solution.deps.json
+C:/Users/Alex/Desktop/Arboles/Solution/bin/Debug/net8.0/Solution.dll
+C:/Users/Alex/Desktop/Arboles/Solution/bin/Debug/net8.0/Solution.pdb
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/Solution.AssemblyInfoInputs.cache
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/Solution.AssemblyInfo.cs
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/Solution.csproj.CoreCompileInputs.cache
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/Solution.dll
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/refint/Solution.dll
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/Solution.pdb
+C:/Users/Alex/Desktop/Arboles/Solution/obj/Debug/net8.0/ref/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/Solution.AssemblyInfoInputs.cache
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/Solution.AssemblyInfo.cs
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/Solution.csproj.CoreCompileInputs.cache
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/refint/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/Solution.pdb
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/bin/Debug/net8.0/Solution.deps.json
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/bin/Debug/net8.0/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/bin/Debug/net8.0/Solution.pdb
+C:/Users/Alex/Documents/Coding/pruebas/Arboles_Final/Solution/obj/Debug/net8.0/ref/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.deps.json
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.pdb
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.AssemblyInfoInputs.cache
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.AssemblyInfo.cs
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.csproj.CoreCompileInputs.cache
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/refint/Solution.dll
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.pdb
+C:/Users/Alex/Documents/Coding/pruebas/Finding Paths/Solution/obj/Debug/net8.0/ref/Solution.dll
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.deps.json
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.dll
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.pdb
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.AssemblyInfoInputs.cache
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.AssemblyInfo.cs
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.csproj.CoreCompileInputs.cache
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.dll
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/refint/Solution.dll
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.pdb
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/ref/Solution.dll
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.exe
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/bin/Debug/net8.0/Solution.runtimeconfig.json
+C:/Users/John/Desktop/programacion/pruebas/pruebas/Finding Paths/Solution/obj/Debug/net8.0/Solution.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/bin/Debug/net8.0/Solution
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/bin/Debug/net8.0/Solution.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/bin/Debug/net8.0/Solution.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/bin/Debug/net8.0/Solution.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/bin/Debug/net8.0/Solution.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/refint/Solution.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/Solution.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Finding PATHS/obj/Debug/net8.0/ref/Solution.dll
