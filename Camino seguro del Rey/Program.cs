@@ -22,7 +22,7 @@ public class Program
         }
 
 
-        ImprimirMatrizBool(test3);
+        ImprimirMatrizBool(test2);
         Console.WriteLine(LongitudMinimaSegura(test3));
         Console.WriteLine(LongitudMinimaSegura(test1));
         Console.WriteLine(LongitudMinimaSegura(test2));

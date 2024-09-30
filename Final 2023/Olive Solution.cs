@@ -12,10 +12,11 @@ public static class Solution
 
     private static void GetBestRoute(Map map, bool[] visitedLions, int actualPlace, int actualWorker, int n, int distance, ref int LowerDistance)
     {
-        if(distance > LowerDistance)        //Poda
+        if (distance > LowerDistance)        //Poda
         {
             return;
         }
+
 
         //Caso Base, si ya definimos las rutas de todos los trabajadores
         if (actualWorker == n)
@@ -34,13 +35,13 @@ public static class Solution
             if (map.IsOnTime(i, distance + map[actualPlace, i]) && !visitedLions[i - 1])
             {
                 visitedLions[i - 1] = true;
-                GetBestRoute(map, visitedLions, i, actualWorker, n, distance + map[actualPlace,i] , ref LowerDistance);
+                GetBestRoute(map, visitedLions, i, actualWorker, n, distance + map[actualPlace, i], ref LowerDistance);
                 visitedLions[i - 1] = false;
             }
         }
 
         //Regresando al refugio
-        GetBestRoute(map , visitedLions , 0, actualWorker + 1 , n , distance + map[actualPlace, 0] , ref LowerDistance);
+        GetBestRoute(map, visitedLions, 0, actualWorker + 1, n, distance + map[actualPlace, 0], ref LowerDistance);
 
     }
 }

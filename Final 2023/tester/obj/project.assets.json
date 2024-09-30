@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/exam.csproj",
-      "projectName": "exam",
-      "projectPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/exam.csproj",
+      "projectUniqueName": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/tester.csproj",
+      "projectName": "tester",
+      "projectPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/tester.csproj",
       "packagesPath": "/home/via/.nuget/packages/",
-      "outputPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/",
+      "outputPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/via/.nuget/NuGet/NuGet.Config"
