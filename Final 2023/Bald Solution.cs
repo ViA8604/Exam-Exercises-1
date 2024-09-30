@@ -1,4 +1,4 @@
-public static class Solution
+/*public static class Solution
 {
     public static int GetRoutes(Map map, int n)
     {
@@ -70,3 +70,4 @@ public static class Solution
         return true;
     }
 }
+*/

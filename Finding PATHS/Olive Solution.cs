@@ -41,7 +41,7 @@ public static class Solution
                 }
                 else
                 {
-                    //Si no lo est'a lo conecta y llama a la recursividad
+                    //Si no lo está lo conecta y llama a la recursividad
                     if (ConnectedChildren != null)
                     {
                         for (int j = 0; j < ConnectedChildren.Length; j++)

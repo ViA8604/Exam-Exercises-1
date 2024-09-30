@@ -1,0 +1,15 @@
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/bin/Debug/net8.0/exam
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/bin/Debug/net8.0/exam.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/bin/Debug/net8.0/exam.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/bin/Debug/net8.0/exam.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/bin/Debug/net8.0/exam.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/refint/exam.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/exam.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/obj/Debug/net8.0/ref/exam.dll
