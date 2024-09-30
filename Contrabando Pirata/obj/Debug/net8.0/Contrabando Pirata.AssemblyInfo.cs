@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contrabando Pirata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0936b3d12742eb478a73956aa0dc3b19af998990")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a791d89547eeb7fef1560432b8abc8f757f506c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contrabando Pirata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contrabando Pirata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

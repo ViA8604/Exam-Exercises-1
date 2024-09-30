@@ -1,10 +1,21 @@
-﻿
+﻿int[,] matrix = new int[,]{{0, 1, 1, 3},
+                           {1, 0, 3, 1},
+                           {1, 3, 0, 1},
+                           {3, 1, 1, 0}};
+
+int[] A = new int[] { 1, 2 };
+int[] B = new int[] { 3 };
+Map map = new Map(matrix, A, B);
+//Esto debe tener costo 7
+Console.WriteLine(GetRoutes(map, 2));
+
+
 int GetRoutes(Map map, int n)
 {
     int min = int.MaxValue;
     bool[] visitedIslands = new bool[map.N];
 
-    Navigate(map, visitedIslands, 0, 0, n, 0, ref min);
+    Navigate(map, visitedIslands, 0, 0, n, 0, ref min); //Comenzamos por la isla 0 y el barco 0
 
     return min;
 }
@@ -25,7 +36,7 @@ void Navigate(Map map, bool[] visitedIslands, int actualIsland, int actualShip, 
 
     for (int i = 0; i < map.N; i++)                         //Visitemos las islas
     {
-        if (!visitedIslands[i])
+        if (!visitedIslands[i])                             //Si la isla no ha sido visitada
         {
             if (map.IsTypeA(i) && map.IsTypeB(actualIsland))  //Si pasa esto ignoramos el viaje
             {
@@ -41,15 +52,3 @@ void Navigate(Map map, bool[] visitedIslands, int actualIsland, int actualShip, 
     Navigate(map, visitedIslands, 0, actualShip + 1, Ships, cost + map[actualIsland, 0], ref min);
 }
 
-
-
-int[,] matrix = new int[,]{{0, 1, 1, 3},
-                           {1, 0, 3, 1},
-                           {1, 3, 0, 1},
-                           {3, 1, 1, 0}};
-
-int[] A = new int[] { 1, 2 };
-int[] B = new int[] { 3 };
-Map map = new Map(matrix, A, B);
-//Esto debe tener costo 7
-Console.WriteLine(GetRoutes(map, 2));
