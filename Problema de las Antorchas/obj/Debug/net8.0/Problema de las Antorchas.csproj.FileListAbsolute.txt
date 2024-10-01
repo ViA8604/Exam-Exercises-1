@@ -1,0 +1,5 @@
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.sourcelink.json

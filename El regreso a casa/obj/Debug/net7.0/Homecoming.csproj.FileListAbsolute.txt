@@ -1,0 +1,15 @@
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/bin/Debug/net7.0/Homecoming
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/bin/Debug/net7.0/Homecoming.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/bin/Debug/net7.0/Homecoming.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/bin/Debug/net7.0/Homecoming.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/bin/Debug/net7.0/Homecoming.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/refint/Homecoming.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/Homecoming.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/El regreso a casa/Homecoming/obj/Debug/net7.0/ref/Homecoming.dll
