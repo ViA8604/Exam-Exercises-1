@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Camino seguro del Rey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a87f69cacfc14cdf247b356bdaefdd259ae2d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5c155347e400cddad9fb275b58aec5192d72504")]
 [assembly: System.Reflection.AssemblyProductAttribute("Camino seguro del Rey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Camino seguro del Rey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,33 @@
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/bin/Debug/net6.0/tester
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/bin/Debug/net6.0/tester.deps.json
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/bin/Debug/net6.0/tester.dll
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/bin/Debug/net6.0/tester.pdb
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/bin/Debug/net6.0/code.dll
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/bin/Debug/net6.0/code.pdb
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.dll
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/refint/tester.dll
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.pdb
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/home/rodrigo/projects/pro_exmanens/2023/leones-tester/tester/obj/Debug/net6.0/ref/tester.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/bin/Debug/net6.0/tester
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/bin/Debug/net6.0/tester.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/bin/Debug/net6.0/tester.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/bin/Debug/net6.0/tester.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/refint/tester.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Final 2023/tester/obj/Debug/net6.0/ref/tester.dll
