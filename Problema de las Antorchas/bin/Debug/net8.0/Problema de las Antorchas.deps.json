@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problema de las Antorchas/1.0.0": {
+        "runtime": {
+          "Problema de las Antorchas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema de las Antorchas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

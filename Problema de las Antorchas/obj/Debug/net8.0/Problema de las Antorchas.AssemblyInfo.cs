@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Problema de las Antorchas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+064b3c9fed21957a6ad050c80df5c8a84b5ff138")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+603125cb49757dfdbb7c5efa8767e8e5ae4d2759")]
 [assembly: System.Reflection.AssemblyProductAttribute("Problema de las Antorchas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Problema de las Antorchas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
