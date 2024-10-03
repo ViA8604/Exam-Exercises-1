@@ -3,3 +3,13 @@
 /home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.AssemblyInfo.cs
 /home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.csproj.CoreCompileInputs.cache
 /home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/bin/Debug/net8.0/Problema de las Antorchas
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/bin/Debug/net8.0/Problema de las Antorchas.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/bin/Debug/net8.0/Problema de las Antorchas.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/bin/Debug/net8.0/Problema de las Antorchas.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/bin/Debug/net8.0/Problema de las Antorchas.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/refint/Problema de las Antorchas.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/Problema de las Antorchas.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Problema de las Antorchas/obj/Debug/net8.0/ref/Problema de las Antorchas.dll

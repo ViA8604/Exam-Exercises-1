@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Sistema de Archivos/filesystem/filesystem.csproj": {}
+  },
+  "projects": {
+    "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Sistema de Archivos/filesystem/filesystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Sistema de Archivos/filesystem/filesystem.csproj",
+        "projectName": "filesystem",
+        "projectPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Sistema de Archivos/filesystem/filesystem.csproj",
+        "packagesPath": "/home/via/.nuget/packages/",
+        "outputPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Sistema de Archivos/filesystem/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/via/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.30, 6.0.30]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbFti8IYLU8ab0qQVPxN4j5VjwPsSgoOggBVPWThrcYt9ayNKDxWNx5/ANEPgfPB9p4k1T5MNdwe8eM+f1fAmg==",
+  "success": true,
+  "projectFilePath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Sistema de Archivos/filesystem/filesystem.csproj",
+  "expectedPackageFiles": [
+    "/home/via/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/via/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
