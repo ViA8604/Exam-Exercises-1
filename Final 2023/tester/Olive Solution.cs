@@ -5,14 +5,14 @@ public static class Solution
         int LowerDistance = int.MaxValue;
         bool[] visitedLions = new bool[map.N - 1];
 
-        GetBestRoute(map, visitedLions, 0, 0, n, 0, ref LowerDistance);
+        GetBestRoute(map, visitedLions, 0, 0, n, 0, 0, ref LowerDistance);
 
         return LowerDistance;
     }
 
-    private static void GetBestRoute(Map map, bool[] visitedLions, int actualPlace, int actualWorker, int n, int distance, ref int LowerDistance)
+    private static void GetBestRoute(Map map, bool[] visitedLions, int actualPlace, int actualWorker, int n, int time, int distance, ref int LowerDistance)
     {
-        if (distance > LowerDistance)        //Poda
+        if (distance >= LowerDistance)        //Poda
         {
             return;
         }
@@ -32,16 +32,16 @@ public static class Solution
         //Caso Recursivo, alimentando leones
         for (int i = 1; i < map.N; i++)
         {
-            if (map.IsOnTime(i, distance + map[actualPlace, i]) && !visitedLions[i - 1])
+            if (map.IsOnTime(i, time + map[actualPlace, i]) && !visitedLions[i - 1])
             {
                 visitedLions[i - 1] = true;
-                GetBestRoute(map, visitedLions, i, actualWorker, n, distance + map[actualPlace, i], ref LowerDistance);
+                GetBestRoute(map, visitedLions, i, actualWorker, n, time + map[actualPlace, i], distance + map[actualPlace, i], ref LowerDistance);
                 visitedLions[i - 1] = false;
             }
         }
 
         //Regresando al refugio
-        GetBestRoute(map, visitedLions, 0, actualWorker + 1, n, distance + map[actualPlace, 0], ref LowerDistance);
+        GetBestRoute(map, visitedLions, 0, actualWorker + 1, n, 0, distance + map[actualPlace, 0], ref LowerDistance);
 
     }
 }
