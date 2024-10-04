@@ -1,0 +1,15 @@
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/bin/Debug/net7.0/Template
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/bin/Debug/net7.0/Template.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/bin/Debug/net7.0/Template.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/bin/Debug/net7.0/Template.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/bin/Debug/net7.0/Template.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/refint/Template.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/Template.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Representando Imagenes/Representando Imágenes/obj/Debug/net7.0/ref/Template.dll

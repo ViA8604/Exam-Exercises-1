@@ -1,0 +1,29 @@
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.exe
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.deps.json
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.runtimeconfig.json
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.dll
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.pdb
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.AssemblyInfoInputs.cache
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.AssemblyInfo.cs
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.csproj.CoreCompileInputs.cache
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.dll
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/refint/Temporada Ciclónica.dll
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.pdb
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.genruntimeconfig.cache
+C:/Users/maval/Desktop/Propuestas de examenes Programacion/Temporada Ciclónica/Temporada Ciclónica/obj/Debug/net8.0/ref/Temporada Ciclónica.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/bin/Debug/net8.0/Temporada Ciclónica.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.sourcelink.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/refint/Temporada Ciclónica.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/Temporada Ciclónica.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica (2)/Temporada Ciclónica/obj/Debug/net8.0/ref/Temporada Ciclónica.dll
