@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Desktop\\programacion\\Forks\\Temporada Ciclónica\\Temporada Ciclónica\\Temporada Ciclónica.csproj": {}
+    "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica/Temporada Ciclónica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Desktop\\programacion\\Forks\\Temporada Ciclónica\\Temporada Ciclónica\\Temporada Ciclónica.csproj": {
+    "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica/Temporada Ciclónica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Temporada Ciclónica\\Temporada Ciclónica\\Temporada Ciclónica.csproj",
+        "projectUniqueName": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica/Temporada Ciclónica.csproj",
         "projectName": "Temporada Ciclónica",
-        "projectPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Temporada Ciclónica\\Temporada Ciclónica\\Temporada Ciclónica.csproj",
-        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\programacion\\Forks\\Temporada Ciclónica\\Temporada Ciclónica\\obj\\",
+        "projectPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica/Temporada Ciclónica.csproj",
+        "packagesPath": "/home/via/.nuget/packages/",
+        "outputPath": "/home/via/Documents/codigo/Ejercicios y pruebas/Ej Recursividad/Temporada Ciclónica/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/via/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,4 @@
-public static class Examen
+/*public static class Examen
 {
     public static int MinEstudiantesAvisar(bool[,] amigos, int k)
     {
@@ -88,3 +88,4 @@ public static class Examen
         return NewMask;
     }
 }
+*/
