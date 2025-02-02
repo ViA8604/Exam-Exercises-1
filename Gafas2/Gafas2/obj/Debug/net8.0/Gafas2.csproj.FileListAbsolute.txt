@@ -1,0 +1,28 @@
+C:/Escuela/Pro/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.exe
+C:/Escuela/Pro/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.deps.json
+C:/Escuela/Pro/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.runtimeconfig.json
+C:/Escuela/Pro/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.dll
+C:/Escuela/Pro/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.pdb
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.AssemblyInfoInputs.cache
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.AssemblyInfo.cs
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.csproj.CoreCompileInputs.cache
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.dll
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/refint/Gafas2.dll
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.pdb
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.genruntimeconfig.cache
+C:/Escuela/Pro/Gafas2/Gafas2/obj/Debug/net8.0/ref/Gafas2.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.deps.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.runtimeconfig.json
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/bin/Debug/net8.0/Gafas2.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.GeneratedMSBuildEditorConfig.editorconfig
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.AssemblyInfoInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.AssemblyInfo.cs
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.csproj.CoreCompileInputs.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/refint/Gafas2.dll
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.pdb
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/Gafas2.genruntimeconfig.cache
+/home/via/Documents/codigo/Ejercicios y pruebas/Problemas/Gafas2/Gafas2/obj/Debug/net8.0/ref/Gafas2.dll
